@@ -1,7 +1,5 @@
 # UC Admissions After the SAT/ACT Ban
 
-**Live dashboard:** Streamlit app (`app.py`) — run with `streamlit run app.py`
-
 ## Driving question
 
 **How did the removal of SAT/ACT requirements affect UC admission rates across
@@ -14,7 +12,7 @@ UC Information Center's own published systemwide/campus totals by ethnicity
 (2017–2025, freshman and transfer, Applicants/Admits/Enrollees). This file was
 chosen over the school-level modeling tables specifically because UC redacts
 any school-level ethnicity cell below 5 applicants / 3 admits — summing those
-redacted rows undercounts smaller groups by an order of magnitude. The
+redacted rows undercounts smaller groups by an huge amount. The
 ethnicity summary file is UC's own aggregate and is not subject to that
 redaction problem.
 
@@ -50,7 +48,6 @@ don't represent a U.S. racial/ethnic category comparison, but can be
 re-added via the ethnicity filter.
 
 ## What the dashboard does
-
 1. **Trend line** — admit rate by ethnicity, 2017–2025, with the COVID/removal
    transition window shaded.
 2. **Three-era tabs** — applicant/admit volume and admit rate per ethnicity,
@@ -64,9 +61,5 @@ re-added via the ethnicity filter.
 All charts are filterable by applicant type (freshman/transfer), campus, and
 ethnicity group.
 
-## Running locally
-
-```bash
-pip install streamlit pandas plotly
-streamlit run app.py
-```
+## Running local
+Link: https://claude.ai/public/artifacts/71f14a5a-ef4a-474d-9265-1ccabf3411cd

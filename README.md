@@ -61,8 +61,6 @@ re-added via the ethnicity filter.
 All charts are filterable by applicant type (freshman/transfer), campus, and
 ethnicity group.
 
-## Conclusions
-Through our 
 
 ## Running local
 Link: https://claude.ai/public/artifacts/71f14a5a-ef4a-474d-9265-1ccabf3411cd
